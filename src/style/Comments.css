@@ -1,0 +1,40 @@
+.comments {
+    margin-top: 5%;
+}
+
+div .comments {
+    width: 500px;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1px;
+    border-radius: 5%;
+    position: relative;
+}
+
+.comments input {
+    margin-left: 25px;
+    margin-top: 5px;
+    width: 88%;
+    height: 10%;
+    border-radius: 4px;
+}
+
+.comments h2 {
+    margin-left: 25px;
+    color: black;
+}
+
+.comments hr {
+    width: 90%;
+    margin-right: auto;
+    border-color: rgb(31, 34, 32);
+}
+.comments button {
+    margin-left: 75%;
+    margin-top: 5px;
+    width: 20%;
+    height: 10%;
+    border-radius: 4px;
+}
